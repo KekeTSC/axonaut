@@ -1,4 +1,4 @@
-package fr.axonaut.axonaut;
+package fr.axonaut.axonaut.UI.Fragments;
 
 
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
+
+import fr.axonaut.axonaut.R;
 
 public class HomeFragment extends Fragment {
 
